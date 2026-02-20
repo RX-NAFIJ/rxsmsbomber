@@ -1,7 +1,7 @@
 ## TOOLS USERNAME & PASSWORD :
 
 * `USERNAME : TEAM`
-* `PASSWORD : RX
+* `PASSWORD : RX`
 
 
 ## 💻 Installation Steps
