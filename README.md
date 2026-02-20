@@ -2,6 +2,9 @@
 
 নিচের কমান্ডগুলো এক ক্লিকে কপি করে আপনার Termux এ ব্যবহার করুন:
 
+USERNAME : TEAM
+PASSWORD : RX
+
 ```bash
 pkg update -y
 pkg upgrade -y
