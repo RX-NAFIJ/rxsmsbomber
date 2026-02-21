@@ -5,7 +5,7 @@
 * `pkg update && pkg upgrade`
 * `pkg install python git`
 * `pip install requests`
-* `git clone https://github.com/RX-NAFIJ/rxsmsbomber`
+* `git clone https://github.com/RX-NAFIJ/rxsmsbomber.git`
 * `cd rxsmsbomber`
 * `python smsbomber.py`
 
