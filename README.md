@@ -1,6 +1,10 @@
 # RX SMS BOMBER 💣
 **Developer: RX NAFIJ**
 
+# TOOLS KEY
+* `USERNAME : TEAM`
+* `PASSWORD : RX`
+
 ## 🛠️ USAGE OPTIONS [Termux]
 * `pkg update && pkg upgrade`
 * `pkg install python git`
